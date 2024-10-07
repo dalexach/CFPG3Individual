@@ -1,0 +1,6 @@
+TipoDocumento;NúmeroDocumento;NombresVendedor;ApellidosVendedor
+CC;1444272498;Carlos;García
+TI;1644465659;Ana;González
+CC;1304955593;Pedro;López
+CC;1628295353;Laura;González
+TI;1558372371;Carlos;Martínez

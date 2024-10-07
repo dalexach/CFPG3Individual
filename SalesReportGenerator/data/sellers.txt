@@ -1,6 +1,0 @@
-DocumentType;DocumentNumber;SellerFirstName;SellerLastName
-CC;1829522343;Ana;Pérez
-CE;1692560665;Ana;Martínez
-TI;1535723184;Laura;López
-CC;1984571362;María;García
-CE;1276267666;Ana;Pérez
